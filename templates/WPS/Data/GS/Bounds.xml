@@ -1,0 +1,4 @@
+﻿<wps:Input>
+  <ows:Identifier>features</ows:Identifier>
+  <wps:Reference mimeType="text/xml; subtype=wfs-collection/1.1" xlink:href="{0}" method="GET"/>
+</wps:Input>

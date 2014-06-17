@@ -1,0 +1,26 @@
+42.8165 -1.6442 (610671.2159 4741338.2028)
+gs:
+nearest_bearing: 333.9424074701296
+nearest_distance: 0.10388444391844077
+vec:
+nearest_distance: 2.7575854938309722E-8
+nearest_bearing :328.6458873516514
+
+distance: 167.1441861398855
+
+
+
+
+42.85 -1.6442 (610778.2547672571 4745049.228012285)
+
+nearest_bearing: 180.67103370038978
+nearest_distance: 1.3233872444360393
+
+nearest_distance: 1.3233872444360393
+nearest_bearing: 180.67103370038978
+
+distance: 2129.2534413225994
+
+
+
+(this.watch ? this.watchId = this.geolocation.watchPosition(OpenLayers.Function.bind(this.geolocate, this), OpenLayers.Function.bind(this.failure, this), this.geolocationOptions) : this.getCurrentLocation(), !0)

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pois>
+	<!-- Puestos vigilados -->
+	<poi id="1" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Bajada Labrit</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.816524" longitude="-1.640185">
+				<Point>
+					<posList>42.816524 -1.640185</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="2" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Recinto Ferial junto puente Curtidores</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">3</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.82000" longitude="-1.64899">
+				<Point>
+					<posList>42.82000 -1.64899</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="3" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Recinto Ferial junto puente Vergel</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.8225" longitude="-1.6438">
+				<Point>
+					<posList>42.8225 -1.6438</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="4" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Plaza de San Francisco</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.81675" longitude="-1.6465">
+				<Point>
+					<posList>42.81675 -1.6465</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="5" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Plaza Juan XXIII - Antoniutti</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.8153" longitude="-1.654">
+				<Point>
+					<posList>42.8153 -1.654</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="6" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>Taconera junto estutua Hilarión Eslava</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.8169" longitude="-1.6501">
+				<Point>
+					<posList>42.8169 -1.6501</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	
+	<poi id="7" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>xxxxxxxxxxxBajada Labrit</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.816524" longitude="-1.640185">
+				<Point>
+					<posList>42.816524 -1.640185</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="8" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>xxxxxxxxxxxBajada Labrit</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.816524" longitude="-1.640185">
+				<Point>
+					<posList>42.816524 -1.640185</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="9" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>xxxxxBajada Labrit</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.816524" longitude="-1.640185">
+				<Point>
+					<posList>42.816524 -1.640185</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="19" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos Vigilados</label>
+		<label>xxxxxxxxxxx</label>
+		<label term="Senal_soporte_proximo">Sí</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.816524" longitude="-1.640185">
+				<Point>
+					<posList>42.816524 -1.640185</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<!-- Puestos no vigilados -->
+	<poi id="20" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos No Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos No Vigilados</label>
+		<label>Taconera Vistabella</label>
+		<label term="Senal_quimicas">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">0</label>
+		<location id="location1">
+			<point latitude="42.8177" longitude="-1.6512">
+				<Point>
+					<posList>42.8177 -1.6512</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>	
+	<poi id="21" xml:lang="en-US" >
+	<label term="primary" xml:lang="en-US">[EN]Puestos No Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos No Vigilados</label>
+		<label>Plaza San José</label>
+		<label term="Senal_quimicas">0</label>
+		<label term="Cabinas_discapacitados">0</label>
+		<label term="Urinarios">1</label>
+		<location id="location1">
+			<point latitude="42.82000" longitude="-1.6412">
+				<Point>
+					<posList>42.82000 -1.6412</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="24" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Puestos No Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos No Vigilados</label>
+		<label>xxxxxxxxxxxxxxxx</label>
+		<label term="Senal_quimicas">2</label>
+		<label term="Cabinas_discapacitados">1</label>
+		<label term="Urinarios">0</label>
+		<location id="location1">
+			<point latitude="42.8177" longitude="-1.6512">
+				<Point>
+					<posList>42.8177 -1.6512</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>	
+	<poi id="25" xml:lang="en-US" >
+	<label term="primary" xml:lang="en-US">[EN]Puestos No Vigilados</label>
+		<label term="primary" xml:lang="es-ES">Puestos No Vigilados</label>
+		<label>Colegio Vazquez de Mella (Patio Teobaldos)</label>
+		<label term="Senal_quimicas">2</label>
+		<label term="Cabinas_discapacitados">0</label>
+		<label term="Urinarios">0</label>
+		<location id="location1">
+			<point latitude="42.8145" longitude="-1.6372">
+				<Point>
+					<posList>42.8145 -1.6372</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Puestos No Vigilados</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<!-- Escenarios -->
+	<poi id="30" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Escenarios</label>
+		<label term="primary" xml:lang="es-ES">Escenarios</label>
+		<label>Paseo Sarasate</label>
+		<label term="Lugar">Dentro del recinto del escenario</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">0</label>
+			<location id="location1">
+			<point latitude="42.815" longitude="-1.6459">
+				<Point>
+					<posList>42.815 -1.6459</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="31" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Escenarios</label>
+		<label term="primary" xml:lang="es-ES">Escenarios</label>
+		<label>Taconera (donde Vistabella)</label>
+		<label term="Lugar">Dentro del recinto del escenario</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">0</label>
+			<location id="location1">
+			<point latitude="42.8177" longitude="-1.6512">
+				<Point>
+					<posList>42.8177 -1.6512</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+	<poi id="32" xml:lang="en-US" >
+		<label term="primary" xml:lang="en-US">[EN]Escenarios</label>
+		<label term="primary" xml:lang="es-ES">Escenarios</label>
+		<label>Plaza del Castillo</label>
+		<label term="Lugar">Dentro del recinto del escenario</label>
+		<label term="Cabinas_normales">2</label>
+		<label term="Cabinas_discapacitados">0</label>
+			<location id="location1">
+			<point latitude="42.81665" longitude="-1.6427">
+				<Point>
+					<posList>42.81665 -1.6427</posList>
+				</Point>
+			</point>					
+		</location>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naicsp/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="en-US">
+			<value>Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+		<category scheme="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=611310" xml:lang="es-ES">
+			<value>[EN] Escenarios</value>
+			<!-- <association type="child-of" reference="http://www.census.gov/cgi-bin/sssd/naics/naicsrch?search=2007%20NAICS%20Search&amp;code=6113"/> -->
+		</category>
+	</poi>
+</pois>
